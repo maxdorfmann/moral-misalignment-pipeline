@@ -1,0 +1,6 @@
+pandas>=2.2
+spacy>=3.7
+sentence-transformers>=2.6
+bertopic>=0.16
+openai>=1.21
+tweepy==4.15.0
